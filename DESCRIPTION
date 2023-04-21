@@ -1,0 +1,18 @@
+Package: IgMobil
+Type: Package
+Title: Calculates Intergenerational Mobility Indices
+Version: 0.1.0
+Description: The package calculates 14 intergenerational mobility indices ranging from single stage to transition matrix indices. The data is divided into several percentiles in calculating the transition matrix.
+Authors@R: c(
+    person("Chitti", "Ankith", email = "ankithmew90@gmail.com", role = "cre"),
+    person("Bheemshar", "Reddy", email = "bheem@hyderabad.bits-pilani.ac.in", role = "aut"))
+Imports: knitr, stats, utils
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2018-11-24 11:02:07 UTC; admin
+Author: Chitti Ankith [cre],
+  Bheemshar Reddy [aut]
+Maintainer: Chitti Ankith <ankithmew90@gmail.com>

@@ -1,1 +1,1 @@
-# InternGenerational-Mobility-Analysis
+# InterGenerational-Mobility-Analysis
